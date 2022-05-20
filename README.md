@@ -22,11 +22,4 @@ In the project directory, you can run:
 `npm run lint:css`, `npm run lint:js`
 > Runs the linters
 
-## TO DO
-- [x] save responses if the user leaves or reloads the page
-- [x] add reset search button
-- [x] double check if user wants to reset search history
-- [x] notify user when server return errors
-- [x] close popup with ESC
-- [ ] close popup with overlay click
 # frontend-challenge-F22

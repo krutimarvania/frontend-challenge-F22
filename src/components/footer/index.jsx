@@ -10,7 +10,7 @@ export const Footer = () => {
           href="https://naumchik.me/"
           rel="noopener noreferrer"
           target="_blank">
-          Irina Naumchik
+          Kruti...
         </a>
       </p>
     </div>
